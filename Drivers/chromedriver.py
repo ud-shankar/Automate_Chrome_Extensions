@@ -3,8 +3,6 @@ from selenium.webdriver.chrome.options import Options
 
 
 chromedriver = 'C:/Selenium/chromedriver.exe'               #path where your local chrome driver is saved in the system
-# popup_window_url = "chrome-extension://mgijmajocgfcbeboacabfgobmjgjcoja/browser_action.html"        #Copy the path to your popup html file
-# options_url = "chrome-extension://mgijmajocgfcbeboacabfgobmjgjcoja/options.html"        #Copy path to your options .html file
 crx_path = r"C:\Saka\Drivers\Saka_extension.crx"                      #absolute path to your .crx file in your local project
 
 
