@@ -7,7 +7,6 @@ import keyboard
 
 
 @scenario("../Feature/Chrome_extension.feature", "Test one of the feature of the extension - Saka")
-@pytest.mark.saka
 def test_web_page():
     pass
 
